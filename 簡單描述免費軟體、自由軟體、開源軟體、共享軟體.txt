@@ -1,0 +1,15 @@
+免費軟體:是指不需以金錢購買使用授權的電腦軟體。
+
+https://zh.wikipedia.org/wiki/%E5%85%8D%E8%B2%BB%E8%BB%9F%E9%AB%94
+
+自由軟體:是一類可以不受限制地自由使用、複製、研究、修改和分發的，尊重使用者自由的軟體。
+
+https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6
+
+開源軟體:是一種原始碼可以任意取用的電腦軟體。
+
+https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6
+
+共享軟體:是不開放原始程式碼的電腦軟體。
+
+https://zh.wikipedia.org/wiki/%E5%85%B1%E4%BA%AB%E8%BB%9F%E9%AB%94

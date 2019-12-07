@@ -1,0 +1,21 @@
+Unity
+
+Unity是一款Ubuntu自家的桌面環境,並面向Ubuntu推出和開發。目前還沒有其它Linux發行版採用Unity作為桌面方案。
+
+GNOME 3
+
+與其它主流桌面Linux發行版一樣,Ubuntu曾使用過GNOME桌面方案。自從GNOME 2逐步升級到GNOME 3乃至GNOME Shell桌面之後,GNOME Shell的改變讓人們改變之前版本的成見。即使是習慣傳統桌面環境的使用者,也可以通過GNOME提供的經典模式擁有了完整的可配置能力。
+
+KDE Plasma 5
+
+KDE在可配置性方面一直優於GNOME以及GNOME衍生的Linux發行版。針對使用者的實際情況,喜歡多選項所帶來的自由搭配空間,或也有些使用者更傾向於GNOME精簡化方案。KDE已經簡化很多高階選項,使用者可以直接享受其搭配合理的預設效果。
+
+Cinnamon
+
+Cinnamon原本專門面向Linux Mint所打造,但如今多種Linux發行版上有著不錯的表現,具體包括Ubuntu、Fedora以及Debian等。
+
+MATE
+
+MATE與Cinnamon是兩種相似的桌面環境,同時受到Linux Mint支援。儘管Cinnamon採用了GNOME 3中的一部分程式碼並將其fork成一套傳統桌面,MATE卻採用更加陳舊的GNOME 2桌面程式碼,並Linux發行版中進行更新。除了Mint之外,MATE也適用於Fedora、Ubuntu以及Debian等。
+
+https://www.itread01.com/p/159541.html

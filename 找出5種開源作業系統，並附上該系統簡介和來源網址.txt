@@ -1,0 +1,15 @@
+Linux:Linux是一種自由和開放原始碼的類UNIX 作業系統。
+https://zh.wikipedia.org/wiki/Linux
+
+FreeBSD:FreeBSD是一個類Unix的作業系統，也是FreeBSD專案的發展成果。FreeBSD是第一個開放原始碼的系統，他是由基於BSD Unix的原始碼衍生而來的。
+https://zh.wikipedia.org/wiki/FreeBSD
+
+NetBSD:NetBSD是一份自由、安全的具有高度可客製化性的類Unix作業系統，適於多種平台，從64位元AMD Athlon伺服器和桌面系統到手持裝置和嵌入式裝置。
+https://zh.wikipedia.org/wiki/NetBSD
+
+Inferno:Inferno是種可以創造並支援分散式服務的作業系統。它主要是基於貝爾實驗室九號計畫的經驗以及貝爾實驗室接下來對於作業系統、語言、即時編譯器、圖形、安全性、網路、移植等的研究而產生的。
+https://zh.wikipedia.org/wiki/Inferno
+
+OpenBSD:OpenBSD是一個類Unix電腦作業系統，是加州大學伯克利分校所開發的Unix衍生系統柏克萊軟體套件（BSD）的一個後繼者。
+
+https://zh.wikipedia.org/wiki/OpenBSD

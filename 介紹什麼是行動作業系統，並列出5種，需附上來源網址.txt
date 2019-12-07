@@ -1,0 +1,18 @@
+行動作業系統:行動作業系統近似在桌上型電腦上運行的作業系統，但是它們通常較為簡單，而且提供了無線通訊的功能。使用行動作業系統的裝置有智慧型手機、PDA、平板電腦等，另外也包括嵌入式系統、行動通訊裝置、無線裝置等。
+
+
+
+Android:Android，常見的非官方中文名稱為安卓，是一個基於Linux核心的開放原始碼行動作業系統，由Google成立的Open Handset Alliance（OHA，開放手機聯盟）持續領導與開發，主要設計用於觸控螢幕行動裝置如智慧型手機和平板電腦與其他可攜式裝置。
+https://zh.wikipedia.org/wiki/Android
+
+Tizen:Tizen（又名泰澤），一款基於開放原始碼的行動作業系統，採用Linux核心和WebKit執行，裝置包括智慧型手機、平板電腦、智慧型手錶、筆記型電腦、車載訊息娛樂裝置（IVI）和智慧型電視。該專案由Linux基金會以及LiMo基金會合力推出，目的在於取代MeeGo與LiMo平台。
+https://zh.wikipedia.org/wiki/Tizen
+
+Sailfish OS:Sailfish（中文：旗魚系統）是一個以Linux為基礎的開放原始碼作業系統，主要用於移動裝置，由諾基亞前員工成立的Jolla公司在諾基亞於2011年放棄的MeeGo系統的社群開發Mer專案基礎上開發而來。
+https://zh.wikipedia.org/wiki/Sailfish_OS
+
+webOS:webOS也稱為LG webOS，以前稱為Open webOS，HP webOS和Palm webOS，是一款基於Linux核心的智慧型電視作業系統，其前身是一款智慧型手機作業系統。最初由Palm所開發，後來陸續被惠普和LG公司所收購，現成為LG的旗下產品。
+https://zh.wikipedia.org/wiki/WebOS
+
+iOS:iOS（原名為iPhone OS）是蘋果公司為其行動裝置所開發的專有行動作業系統，為其公司的許多行動裝置提供操作介面，支援裝置包括iPhone、iPad和iPod touch。iPhone OS自iOS 4起便改名為iOS，它是繼Android後全球第二大最受歡迎的行動作業系統。
+https://zh.wikipedia.org/wiki/IOS
